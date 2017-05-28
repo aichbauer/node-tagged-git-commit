@@ -2,9 +2,9 @@
 
 Get the commit hash and refs/tag of tagged commits, remote and local
 
-[![Build Status](https://travis-ci.org/rudolfsonjunior/node-tagged-git-commit.svg?branch=master)](https://travis-ci.org/rudolfsonjunior/node-tagged-git-commit)
-[![Build status](https://ci.appveyor.com/api/projects/status/e69gx8fdlhxs4kce?svg=true)](https://ci.appveyor.com/project/rudolfsonjunior/node-tagged-git-commit)
-[![Coverage Status](https://coveralls.io/repos/github/rudolfsonjunior/node-tagged-git-commit/badge.svg?branch=master)](https://coveralls.io/github/rudolfsonjunior/node-tagged-git-commit?branch=master)
+[![Build Status](https://travis-ci.org/aichbauer/node-tagged-git-commit.svg?branch=master)](https://travis-ci.org/aichbauer/node-tagged-git-commit)
+[![Build status](https://ci.appveyor.com/api/projects/status/4kqxk117y906tekg/branch/master?svg=true)](https://ci.appveyor.com/project/rudolfsonjunior/node-tagged-git-commit-xnpik/branch/master)
+[![Coverage Status](https://coveralls.io/repos/github/aichbauer/node-tagged-git-commit/badge.svg?branch=master)](https://coveralls.io/github/aichbauer/node-tagged-git-commit?branch=master)
 
 ## Installation
 
