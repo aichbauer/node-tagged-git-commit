@@ -76,7 +76,7 @@ test('get an emty array if the directory is not a repo', (t) => {
 });
 
 test('the tags for this repo is more than 0', (t) => {
-  t.deepEqual(taggedCommit(), []);
+  t.true(taggedCommit().length > 0);
 });
 
 test('get tags from remote repository', (t) => {
